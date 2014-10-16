@@ -20,7 +20,7 @@
 }
 - (void)testForSun
 {
-    
+    NSLog(@"what to do");
 }
 
 @end
