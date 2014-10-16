@@ -14,4 +14,9 @@
 
 @implementation ViewController
 
+- (void)testInfo
+{
+    
+}
+
 @end
