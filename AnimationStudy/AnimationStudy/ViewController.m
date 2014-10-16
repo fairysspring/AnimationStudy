@@ -14,8 +14,13 @@
 
 @implementation ViewController
 
+- (void)testInfo
+{
+    
+}
 - (void)testForSun
 {
     
 }
+
 @end
