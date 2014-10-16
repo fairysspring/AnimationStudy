@@ -14,4 +14,8 @@
 
 @implementation ViewController
 
+- (void)testForSun
+{
+    
+}
 @end
